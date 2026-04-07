@@ -1,7 +1,5 @@
 ## Key-and-mouse-actuators
 
-以下是键鼠执行器的 README 文件内容：
-
 ```markdown
 # 🖱️ 键鼠执行器 v2.0
 
